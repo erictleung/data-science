@@ -1,2 +1,3 @@
-# machine-learning
-Repository for teaching materials and notes on machine learning
+# data-science
+
+Repository for teaching materials and notes on data science
