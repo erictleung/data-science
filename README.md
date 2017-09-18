@@ -7,8 +7,11 @@ based on R and Python 3, trying to replicate tasks in both languages.
 
 - [awesome-datascience][awesomeds] - awesome data science repository to learn
   and apply real world problems
+- [R for Data Science][r4ds] - book by Hadley Wickham on doing typical steps of
+  data science in R
 
 [awesomeds]: https://github.com/bulutyazilim/awesome-datascience
+[r4ds]: http://r4ds.had.co.nz/
 
 ## Datasets
 
