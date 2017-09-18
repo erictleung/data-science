@@ -1,6 +1,7 @@
 # data-science
 
-Repository for teaching materials and notes on data science
+Repository for teaching materials and notes on data science. Notes will be
+based on R and Python 3, trying to replicate tasks in both languages.
 
 ## Resources
 
