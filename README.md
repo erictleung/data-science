@@ -1,38 +1,12 @@
 # data-science
 
 Repository for teaching materials and notes on data science. Notes will be
-based on R and Python 3, trying to replicate tasks in both languages.
+based on Python 3.
 
 **Table of Contents**
 
-- [R and Python Machine Learning](#r-and-python-machine-learning)
 - [Resources](#resources)
 - [Datasets](#datasets)
-
-## R and Python Machine Learning
-
-The [`caret` R package][caret] and [`scikit-learn` Python package][sklearn] are
-two analogous software packages for R and Python to perform machine learning in
-a unified framework.
-
-`caret` is a wrapper package around the main machine learning packages to give
-a consistent interface for typical machine learning and predictive learning
-tasks.
-
-`scikit-learn` has the machine learning algorithms and task functions built-in.
-
-[Here][caretvid] (`1:09:37`) is a good starter video on learning aspects of
-`caret` and [here][sklearnvid] (Part 1 `51:17`, Part 2 `1:11:27`, Part 3
-`1:37:35`) are good starter videos on learning `scikit-learn`.
-
-Lastly, [here][rpyds] is a cheatsheet of common machine learning algorithms
-implemented in both Python and R for quick comparison.
-
-[caret]: http://topepo.github.io/caret/index.html
-[sklearn]: http://scikit-learn.org
-[caretvid]: https://youtu.be/7Jbb2ItbTC4
-[sklearnvid]: https://conference.scipy.org/scipy2013/tutorial_detail.php?id=107
-[rpyds]: https://www.analyticsvidhya.com/wp-content/uploads/2015/09/1.jpg
 
 ## Resources
 
