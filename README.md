@@ -1,7 +1,7 @@
 # data-science
 
 Repository for teaching materials and notes on data science. Notes will be
-based on Python 3.
+based on Python 3 and [SymPy](https://www.sympy.org).
 
 **Table of Contents**
 
@@ -23,7 +23,7 @@ based on Python 3.
 - [UCI Machine Learning Repository][uci] - hundreds of datasets for machine
   learning
 - [awesome-public-datasets][public] - high-quality open datasets
-- [fivethirtyeight Data][538] - data used in fivethirtyeight articles
+- [FiveThirtyEight Data][538] - data used in fivethirtyeight articles
 - [UCI Network Data Repository][nets] - network-centric datasets
 - [Data Packaged Core Datasets][datapkg] - important, commonly-used datasets in
   high quality, easy-to-use & open form as data packages
