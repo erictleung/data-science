@@ -1,5 +1,8 @@
 # data-science
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erictleung/data-science/HEAD)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/erictleung/data-science/tree/master/)
+
 Repository for teaching materials and notes on data science. Notes will be
 based on Python 3 and [SymPy](https://www.sympy.org).
 
